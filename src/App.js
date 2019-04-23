@@ -56,12 +56,12 @@ class App extends Component {
                     <div className="flex-container-item">
                         <NavLink to="/news" activeClassName="selected" className="link">News</NavLink>
                     </div>
-                    {!userId && <div className="flex-container-item">
+                    <div className={userId ? "flex-container-item validation-route": "flex-container-item"}>
                         <NavLink to="/login" activeClassName="selected" className="link">Log in</NavLink>
-                    </div>}
-                    {userId && <div className="flex-container-item" onClick={this.handleClick.bind(this)}>
+                    </div>
+                    <div className={userId ? "flex-container-item": "flex-container-item validation-route"} onClick={this.handleClick.bind(this)}>
                         <NavLink to="/logout" className="link">Log out</NavLink>
-                    </div>}
+                    </div>
 
                 </div>
 
