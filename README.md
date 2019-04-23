@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Available on: http://NinaRoun.github.io/login-profile-news
+Credentials: email = 'max@test.com', password = 12345
 
 ## Available Scripts
 
