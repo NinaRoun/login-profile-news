@@ -1,13 +1,13 @@
 {
-  "main.css": "/login-profile-news/static/css/main.611f9c25.chunk.css",
-  "main.js": "/login-profile-news/static/js/main.1f19face.chunk.js",
-  "main.js.map": "/login-profile-news/static/js/main.1f19face.chunk.js.map",
+  "main.css": "/login-profile-news/static/css/main.1730a3d5.chunk.css",
+  "main.js": "/login-profile-news/static/js/main.3e40886a.chunk.js",
+  "main.js.map": "/login-profile-news/static/js/main.3e40886a.chunk.js.map",
   "runtime~main.js": "/login-profile-news/static/js/runtime~main.0a6db134.js",
   "runtime~main.js.map": "/login-profile-news/static/js/runtime~main.0a6db134.js.map",
   "static/js/2.e1cb927f.chunk.js": "/login-profile-news/static/js/2.e1cb927f.chunk.js",
   "static/js/2.e1cb927f.chunk.js.map": "/login-profile-news/static/js/2.e1cb927f.chunk.js.map",
   "index.html": "/login-profile-news/index.html",
-  "precache-manifest.4c421c63d71f1c8c0ef00046b275ecc1.js": "/login-profile-news/precache-manifest.4c421c63d71f1c8c0ef00046b275ecc1.js",
+  "precache-manifest.3f0a39e4e010f5a8015be1a1fcaed4a6.js": "/login-profile-news/precache-manifest.3f0a39e4e010f5a8015be1a1fcaed4a6.js",
   "service-worker.js": "/login-profile-news/service-worker.js",
-  "static/css/main.611f9c25.chunk.css.map": "/login-profile-news/static/css/main.611f9c25.chunk.css.map"
+  "static/css/main.1730a3d5.chunk.css.map": "/login-profile-news/static/css/main.1730a3d5.chunk.css.map"
 }

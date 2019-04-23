@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/login-profile-news/static/js/runtime~main.0a6db134.js"
   },
   {
-    "revision": "891a225372bf78c9de2e",
-    "url": "/login-profile-news/static/js/main.1f19face.chunk.js"
+    "revision": "a3910b0f3f225b82a15a",
+    "url": "/login-profile-news/static/js/main.3e40886a.chunk.js"
   },
   {
     "revision": "123f79098eadd68e0a14",
     "url": "/login-profile-news/static/js/2.e1cb927f.chunk.js"
   },
   {
-    "revision": "891a225372bf78c9de2e",
-    "url": "/login-profile-news/static/css/main.611f9c25.chunk.css"
+    "revision": "a3910b0f3f225b82a15a",
+    "url": "/login-profile-news/static/css/main.1730a3d5.chunk.css"
   },
   {
-    "revision": "fb3f309cb7a2210232a1b0e6f34ffb99",
+    "revision": "e0dee8b309432e1c042795cc339b177b",
     "url": "/login-profile-news/index.html"
   }
 ];
